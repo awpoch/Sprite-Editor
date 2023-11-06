@@ -5,5 +5,6 @@
 <p>The zoom function makes it easier to edit larger images.</p>
 <p>Preview your images and set your own FPS.</p>
 <p>Save your file when your done so you can Open it later.</p>
+<p>To try the Sprite Editor just downlaod SpriteEditor.exe.</p>
 
 ![Alt text](SpriteEditorAnimation.gif)
